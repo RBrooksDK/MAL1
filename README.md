@@ -1,6 +1,6 @@
 # MAL1
 
-[Test](#lesson-plan)
+[Jump to Lesson Plan](#lesson-plan)
 
 This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
 
