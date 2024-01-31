@@ -67,7 +67,7 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Week | Teacher | Topic |
 |---------|------|---------|-------|
 | 01      | 6    | RIB     | [Introduction: Machine learning fundamentals](https://github.com/RBrooksDK/MAL1/blob/main/01%20Introduction%20-%20Machine%20learning%20fundamentals/README.md) |
-| 02      | 7    | RIB     | [Naive Bayes and support vector machines](https://github.com/RBrooksDK/MAL1/blob/main/02%20Naive%20Bayes%20and%20support%20vector%20machines/README.md) |
+| 02      | 7    | RIB     | [Naïve Bayes and support vector machines](https://github.com/RBrooksDK/MAL1/blob/main/02%20Naive%20Bayes%20and%20support%20vector%20machines/README.md) |
 | 03      | 8    | FRBJ    | [Tree-based models](https://github.com/RBrooksDK/MAL1/blob/main/03%20Tree-based%20models/README.md) |
 | 04      | 9    | RIB     | [The machine learning pipeline: Introduction to final project](https://github.com/RBrooksDK/MAL1/blob/main/04%20The%20machine%20learning%20pipeline%20-%20Introduction%20to%20final%20project/README.md) |
 | 05      | 10   | RIB     | [Data preparation and feature engineering](https://github.com/RBrooksDK/MAL1/blob/main/05%20Data%20preparation%20and%20feature%20engineering/README.md) |
