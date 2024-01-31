@@ -44,12 +44,15 @@ Introduction to Machine Learning was first offered in the spring of 2018 and has
 
 ### Grade Distribution 2023 (ordinary exam only)
 
-- **12:** 13
-- **10:** 7
-- **7:** 15
-- **4:** 7
-- **02:** 5
-- **00:** 6
+| Grade | Count |
+|-------|-------|
+| 12    | 13    |
+| 10    | 7     |
+| 7     | 15    |
+| 4     | 7     |
+| 02    | 5     |
+| 00    | 6     |
+
 
 ## Lesson Plan
 
