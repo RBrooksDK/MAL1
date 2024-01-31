@@ -1,29 +1,24 @@
-<h2 align="center">07 Orthogonality I</h2>
+<h2 align="center">07 Linear Algebra in Machine Learning</h2>
 
 ## Material:
 
-[Recap and Exercises (template)](https://drive.google.com/file/d/1Xdemg9kIo9RbjNo7dp-yi98BKnbEUC5e/view?usp=sharing)
+Watch [this video](https://youtu.be/uZeDTwWcnuY?si=d5yqsNEMoHye6_Td)
 
-[Class notes (template)](https://drive.google.com/file/d/1jRZVIZR2YGt7QvjEeLm4XAFTXa3fqK3U/view?usp=sharing)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eolrpr8ojlJJhx2RVFDnCZoBPeVfuvNfYu6Y6jRn_q2vkg?e=FPpdkV)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsTiRlgRBLpMku31mwnbViIBHTOgpvFeUWhBaN0WGJJMkA?e=KYrKvB)
-
-<p>Lay:&nbsp;​​​6.1-6.3</p>
 
 ## Topics
-<ul>
- <li>​Inner product</li>
- <li>Length</li>
- <li>Orthogonality</li>
- <li>Orthogonal sets</li>
- <li>Projection</li>
-</ul>
+In today's session we look at some of the math behind Machine Learning. Ideally, you would have had both a course in Linear Algebra and Probability theory before starting up on Machine Learning, but in this session we will try to mediate this:
 
-## Problems to be worked on in/after class
+- Introduction to the importance of mathematics in machine learning.
+- The role of linear algebra in representing data and models.
+- The significance of GPUs and matrix operations in machine learning.
+- Viewing linear algebra through the lens of programming concepts.
+- Applications of linear algebra techniques like SVD in machine learning.
 
-<p>"Do this exercise first.pdf"&nbsp;<br />
-6.1: 1, 11, 13, 15-18 &nbsp;<br />
-6.2: 1, 9, 12, 21, 35 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-6.3: 1, 3, 7, 13, 17 &nbsp;&nbsp;&nbsp;<br />
-
-If you do not finish in class, work on them at home</p>
+After attending this lecture and/or watching the video, I expect you to be able to:
+- Understand why mathematics, particularly linear algebra, calculus, and statistics, is fundamental to machine learning and its optimization processes
+- Gain knowledge on how linear algebra facilitates the representation of machine learning data, models, and computations using arrays and matrices.
+- Recognize the critical role of GPUs and matrix operations in enhancing the efficiency and capabilities of machine learning algorithms.
+- Develop an intuitive grasp of linear algebra by relating it to programming concepts.
+- Learn about the application of linear algebra techniques, such as Singular Value Decomposition, in processing and optimizing machine learning data and models.
