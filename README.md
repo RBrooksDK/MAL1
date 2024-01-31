@@ -84,13 +84,15 @@ Click on a session below to access a plan of a specific session and additional r
 
 ## Portfolios and Project
 
-| Assignment                                       | Deadline | Log in to Itslearning to hand in |
+Click on the assignment to view the assignment and the hand in link to hand in to Itslearning (requires log in)
+
+| Assignment                                       | Deadline | Hand-in link |
 |--------------------------------------------------|----------|-----------------------------------------------|
-| 1. Getting started: Airbnb                       | TBD      | [Link](#)                                     |
-| 2. Classification: data                          | TBD      | [Link](#)                                     |
-| 3. Feature Engineering and Preprocessing: Waterworks | TBD | [Link](#)                                 |
-| 4. Regression: Optimization of Long-Term Correction of Wind Data | TBD | [Link](#)             |
-| 5. Dimensionality Reduction and Clustering: The Candidates | TBD | [Link](#)                          |
-| 6. Neural Networks: Sentiment Analysis           | TBD      | [Link](#)                                     |
-| 7. Final Group Project                           | TBD      | [Link](#)                                     |
+| 1. Getting started: Airbnb                       | TBD      | [Portfolio 1](#)                                     |
+| 2. Classification: data                          | TBD      | [Portfolio 2](#)                                     |
+| 3. Feature Engineering and Preprocessing: Waterworks | TBD | [Portfolio 3](#)                                 |
+| 4. Regression: Optimization of Long-Term Correction of Wind Data | TBD | [[Portfolio 4](#)             |
+| 5. Dimensionality Reduction and Clustering: The Candidates | TBD | [[Portfolio 5](#)                          |
+| 6. Neural Networks: Sentiment Analysis           | TBD      | [[Portfolio 5](#)                                     |
+| 7. Final Group Project                           | TBD      | [Final Group Project](#)                                     |
 
