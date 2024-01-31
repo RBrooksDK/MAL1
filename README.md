@@ -59,6 +59,8 @@ Introduction to Machine Learning was first offered in the spring of 2018 and has
 
 ## Lesson Plan
 
+<div align="center">
+
 | Session | Date                | Topic                                                                                          |
 |---------|---------------------|------------------------------------------------------------------------------------------------|
 | 01      | 7 Aug 08:20 – 11:50 | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
@@ -70,3 +72,5 @@ Introduction to Machine Learning was first offered in the spring of 2018 and has
 | 07      | 15 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
 | 08      | 16 Aug 08:20 – 11:50 | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
 | 09      | 17 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+
+</div>
