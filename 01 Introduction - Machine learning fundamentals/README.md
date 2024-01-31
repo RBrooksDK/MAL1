@@ -1,7 +1,7 @@
 <h2 align="center">01 Introduction to Linear Algebra</h2>
 
 ## Material:
-Chapter 1
+Ch 1 + "kNN" (see Session material below) +  (Section about "Logistic Regression" in Ch 4)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ehw3HAQLiH5OuSB14MmZb5gBZxQvOeMDPqkRz7Jvg2hBjw?e=ADVcEv)
 
@@ -20,7 +20,6 @@ After attending this lecture and reading the corresponding part of the book, I e
 - Explain the principles behind the kNN algorithm
 - Explain the principles behind the (LR) algorithm
 - Explain what is meant by the "hyperparameters" of an algorithm
-- Explain the "k" and "distance" hyperparameters in the kNN algorithm
 
 
 
