@@ -1,4 +1,4 @@
-<div align="center"># MAL1 </div>
+<h1 align="center">MAL1</h1>
 
 [Jump to Lesson Plan](#lesson-plan)
 
