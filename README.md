@@ -2,6 +2,8 @@
 
 [Jump to Lesson Plan](#lesson-plan)
 
+[Jump to Portfolios and Project](#portfolios-and-project)
+
 This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
 
 The course consists of 12 scheduled sessions, each with a duration of 2-4 lessons. The sessions start in week 6 and the final session will be in week 19. During these weeks, the students work on a self-chosen group project. Additionally, there are 6 group assignments during the semester which have specified deadlines. Both the project and the assignments must be handed in on Itslearning.
@@ -79,3 +81,16 @@ Click on a session below to access a plan of a specific session and additional r
 | 12      | 19   | FRBJ    | [Perspectives in artificial intelligence](https://github.com/RBrooksDK/MAL1/blob/main/12%20Perspectives%20in%20artificial%20intelligence/README.md) |
 
 </div>
+
+## Portfolios and Project
+
+| Assignment                                       | Deadline | Hand in Link [Requires log in to Itslearning] |
+|--------------------------------------------------|----------|-----------------------------------------------|
+| 1. Getting started: Airbnb                       | TBD      | [Link](#)                                     |
+| 2. Classification: data                          | TBD      | [Link](#)                                     |
+| 3. Feature Engineering and Preprocessing: Waterworks | TBD | [Link](#)                                 |
+| 4. Regression: Optimization of Long-Term Correction of Wind Data | TBD | [Link](#)             |
+| 5. Dimensionality Reduction and Clustering: The Candidates | TBD | [Link](#)                          |
+| 6. Neural Networks: Sentiment Analysis           | TBD      | [Link](#)                                     |
+| 7. Final Group Project                           | TBD      | [Link](#)                                     |
+
