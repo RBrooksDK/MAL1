@@ -89,7 +89,7 @@ Click on the assignment to view the assignment and the hand in link to hand in t
 | [1. Getting started: Airbnb](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ep3PUSQrEipPla4QcRYt-6wBnUnYy9fi8SDoMTnmLQ9VKQ?e=cK0gbC)                       | TBD | [Portfolio 1](#) |
 | [2. Classification: data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eic9cE3YnApJkMB3KCXLAtYBFm7se6JkrJeujHtWlGjdag?e=SoUVaY)                          | TBD | [Portfolio 2](#) |
 | [3. Feature Engineering and Preprocessing: Waterworks](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EoXHsezwjt1Ah2sUkOK_OzkBfhgwdDK_iXhdT2gX521qOw?e=hzvzty) | TBD | [Portfolio 3](#) |
-| [4. Regression: Long-Term Correction of Wind Data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtQLm_y5u2pHqJTPYxS9TVwB814PQwyDrlVRYDRDo27ZzQ?e=D2fFNb) | TBD | [Portfolio 4](#) |
+| [4. Regression: Long-Term Correction of Wind Data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EvMpTWIjCEtCjGRqFAEHdQUBuwECxfqEeyflQ24Nd8D3wQ?e=a7S1jv) | TBD | [Portfolio 4](#) |
 | [5. Dimensionality Reduction and Clustering: The Candidates](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtQLm_y5u2pHqJTPYxS9TVwB814PQwyDrlVRYDRDo27ZzQ?e=On7NVj) | TBD | [Portfolio 5](#) |
 | [6. Neural Networks: Sentiment Analysis](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ek-tCym3-cRKrG0f_oQfUMkBRiyOaFMM45edBxxrqR8_bA?e=jpoKgo)           | TBD | [Portfolio 6](#) |
 | [7. Final Group Project](#)                           | TBD | [Final Group Project](#) |
