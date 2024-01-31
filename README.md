@@ -90,7 +90,7 @@ Click on the assignment to view the assignment and the hand in link to hand in t
 | [2. Classification: The Candidates Part 1](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eic9cE3YnApJkMB3KCXLAtYBFm7se6JkrJeujHtWlGjdag?e=SoUVaY)                          | TBD | [Portfolio 2](#) |
 | [3. Feature Engineering and Preprocessing: Waterworks](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EoXHsezwjt1Ah2sUkOK_OzkBfhgwdDK_iXhdT2gX521qOw?e=hzvzty) | TBD | [Portfolio 3](#) |
 | [4. Regression: Long-Term Correction of Wind Data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EvMpTWIjCEtCjGRqFAEHdQUBuwECxfqEeyflQ24Nd8D3wQ?e=a7S1jv) | TBD | [Portfolio 4](#) |
-| [5. Dimensionality Reduction and Clustering: The Candidates Parrt 2](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtQLm_y5u2pHqJTPYxS9TVwB814PQwyDrlVRYDRDo27ZzQ?e=On7NVj) | TBD | [Portfolio 5](#) |
+| [5. Dimensionality Reduction and Clustering: The Candidates Part 2](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtQLm_y5u2pHqJTPYxS9TVwB814PQwyDrlVRYDRDo27ZzQ?e=On7NVj) | TBD | [Portfolio 5](#) |
 | [6. Neural Networks: Sentiment Analysis](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ek-tCym3-cRKrG0f_oQfUMkBRiyOaFMM45edBxxrqR8_bA?e=jpoKgo)           | TBD | [Portfolio 6](#) |
 | [7. Final Group Project](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eo-MXv67ZepLnUC-77qPjNsB6Lj04AQ4W553r0qvsQwDcA?e=dkE5uQ)                           | TBD | [Final Group Project](#) |
 
