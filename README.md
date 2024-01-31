@@ -84,7 +84,7 @@ Click on a session below to access a plan of a specific session and additional r
 
 ## Portfolios and Project
 
-| Assignment                                       | Deadline | Hand in Link <br>[Requires log in to Itslearning] |
+| Assignment                                       | Deadline | Log in to Itslearning to hand in |
 |--------------------------------------------------|----------|-----------------------------------------------|
 | 1. Getting started: Airbnb                       | TBD      | [Link](#)                                     |
 | 2. Classification: data                          | TBD      | [Link](#)                                     |
