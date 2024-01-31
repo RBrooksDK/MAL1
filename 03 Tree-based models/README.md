@@ -1,28 +1,46 @@
-<h2 align="center">03 Determinants</h2>
+<h2 align="center">03 Tree-based Models</h2>
 
 ## Material:
+Ch 6 + 7
 
-[Recap and Exercises (template)](https://drive.google.com/file/d/1a-bCd54HRlofetHhaDEvVVjdQEuCmY9b/view?usp=sharing)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EuHEHAN-4cJKpGUy7B8sAP4BXC9WYRgUfyoMkhrzMJZY4A?e=qKTmmr)
 
-[Class notes (template)](https://drive.google.com/file/d/16-VdRO_e6X2bwNpUfeJVkoZrT-naFC3Q/view?usp=sharing)
+You will need to install the graphviz and pydotplus modules in python. You can do this by following these steps:
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqnOhUdCrwBLpZNg2NSxmaUBIxBFaoMXe4X_erAXqiUJFA?e=CVLt0G)
+1) Open the anaconda prompt  
+2) Install graphviz by typing ```conda install python-graphviz```
+3) Install pydotplus by typing ```conda install pydotplus```
 
-<p>Lay:&nbsp;3.1-3.3</p>
+Alternatively, if the above doesn't work:
+
+1) Go to [https://graphviz.gitlab.io/_pages/Download/Download_windows.html](https://graphviz.gitlab.io/_pages/Download/Download_windows.html)  
+   and download graphviz  
+
+2) Add the following to your code:
+
+```python
+import os  
+os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz2.38/bin/'
+```
 
 ## Topics
-<ul>
- <li>Definition of determinant</li>
- <li>Theorem 1 (cofactor expansions)</li>
- <li>Theorem 2 on the determinant of triangular matrices</li>
- <li>Properties of determinant (Theorem 3, 4, 5 and 6)</li>
- <li>(Cramer’s Rule)</li>
-</ul>
+This lecture covers **decision trees** and related methods. We will talk about:
 
-## Problems to be worked on in/after class
+- Decision trees
+- Random forests
+- Gradient-boosted decision trees
 
-<p><strong>Problems to be worked on in/after&nbsp;class:</strong></p>
-<p>​​​3.1: 1, 2, 9, 43 &nbsp;&nbsp;<br />
-3.2: 1, 2, 15-20, 25 &nbsp;<br />
+---
 
-If you do not finish in class, work on them at home</p>
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
+
+- Use and implement decision trees, random forests and gradient boosted decision trees in python.  
+- Describe the advantages and disadvantages of using decision trees, random forests and gradient boosted decision trees, respectively.
+- Visualize decision trees in different ways.
+- Extract and interpret feature importance.
+- Describe how the Gini impurity index can be used to determine which feature to branch off on.
+- Explain what is meant by pre-pruning.
+- Explain how random forests are random, including what is meant by bootstrapping and feature selection in this context.
+- Explain what is meant by soft voting.
+- Discuss different hyperparameters of tree-based methods, and how tuning these parameters influence the results.
+
