@@ -42,9 +42,9 @@ In terms of probability theory and statistics, we have our own course here at VI
 
 Introduction to Machine Learning was first offered in the spring of 2018 and has been scheduled 1-2 times per year since then. The course responsible is Richard Brooks (RIB).
 
-### Grade Distribution 2023 (ordinary exam only)
-
 <div align="center">
+  
+**Grade Distribution 2023 (ordinary exam only)**
 
 | Grade | Count |
 |-------|-------|
