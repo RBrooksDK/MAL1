@@ -59,18 +59,23 @@ Introduction to Machine Learning was first offered in the spring of 2018 and has
 
 ## Lesson Plan
 
+Click on a session below to access a plan of a specific session and additional resources for that session.
+
 <div align="center">
 
-| Session | Date                | Topic                                                                                          |
-|---------|---------------------|------------------------------------------------------------------------------------------------|
-| 01      | 7 Aug 08:20 – 11:50 | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
-| 02      | 8 Aug 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
-| 03      | 9 Aug 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
-| 04      | 10 Aug 08:20 – 11:50 | [Vector Spaces](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
-| 05      | 11 Aug 08:20 – 11:50 | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
-| 06      | 14 Aug 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
-| 07      | 15 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 08      | 16 Aug 08:20 – 11:50 | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 09      | 17 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+| Session | Week   | Teacher             | Topic                                                                                          |
+|---------|---------------------|------------------|------------------------------------------------------------------------------|
+| 01      | 6 | RIB | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
+| 02      | 7 | RIB | [Matrix Algebra](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
+| 03      | 8 | FRBJ | [Determinants](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
+| 04      | 9 | RIB | [Vector Spaces](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
+| 05      | 10 | RIB | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
+| 06      | 11 | FRBJ | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
+| 07      | 12 | RIB | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
+| 08      | 15 | FRBJ | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 09      | 16 | RIB | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+| 10      | 17 | FRBJ | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
+| 11      | 18 | FRBJ | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 12      | 19 | FRBJ | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
 
 </div>
