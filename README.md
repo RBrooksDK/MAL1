@@ -38,7 +38,7 @@ For prerequisites, we have our own course here at VIA called Applied Linear Alge
 
 In terms of probability theory and statistics, we have our own course here at VIA called Stochastic Modelling and Processes (IT-SMP1). You can find an online version of the course at the [course web page](https://github.com/RBrooksDK/SMP1) that also contains recordings from all sessions (from 2021).
 
-## Historic Notes
+## Historical Notes
 
 Introduction to Machine Learning was first offered in the spring of 2018 and has been scheduled 1-2 times per year since then. The course responsible is Richard Brooks (RIB).
 
