@@ -1,22 +1,26 @@
-<h2 align="center">10 Recap and Conclusion</h2>
+<h2 align="center">10 Clustering</h2>
 
 ## Material:
 
-[Recap and Exercises (template)]
+Ch 9
 
-[Class notes (template)]
+[Session material](#)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtfV6J_rSERJj-mb3xr1ZxQByfGidzerAswflw1EoyE7iA?e=xbkSf3)
-
-<p>Lay:&nbsp;​​​​None</p>
 
 ## Topics
-<ul>
-	<li>Recap</li>
-	<li>Exam</li>
-	<li>May be used as buffer if topics get out of plan</li>
-</ul>
+This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for clustering analysis. We cover the following algorithms:
 
-## Problems to be worked on in/after class
+- k means
+- Hierarchical clustering
+- DBSCAN
 
-<p>Do old exam cases</p>
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
+
+- Describe the following clustering algorithms along with their advantages and disadvantages:
+  - k-Means
+  - Agglomerative clustering
+  - DBSCAN
+- Apply the above clustering algorithms in Python
+- Evaluate clustering algorithms (e.g. by inspecting the output in 2D-plots or in other ways inspecting which elements are clustered together).
+- Describe what is meant by "hierarchical" clustering
+- Use a dendogram to determine the optimal number of clusters

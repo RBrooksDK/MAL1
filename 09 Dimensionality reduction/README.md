@@ -1,26 +1,28 @@
-<h2 align="center">09 Symmetric Matrices, SVD, and PCA</h2>
+<h2 align="center">09 Dimensionality Reduction: PCA, LDA and tSNE</h2>
 
 ## Material:
-
-[Recap and Exercises (template)](https://drive.google.com/file/d/1douAmKQNHUD4RJL3WUMc673sFw6__iPe/view?usp=sharing)
-
-[Class notes (template)](https://drive.google.com/file/d/1zmaI-lhLPInvDZ089V6V9G6u0wAMmzPm/view?usp=sharing)
+Ch 8
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtRvmMnYXORCi6BvOYlcc5IBsurTuKp_Tj7q-MY-SjV4ng?e=ttcO3r)
 
-<p>Lay:&nbsp;​​​​7.1+7.4-7.5 &nbsp;</p>
+[Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&si=q7-RepDmv-fnb5PH) has made a whole lecture series about the SVD. This is overkill but maybe check out the the Overview and the videoes about PCA.
+
 
 ## Topics
-<ul>
- <li>Diagonalisation of Symmetric Matrices</li>
- <li>The Spectral Theorem</li>
- <li>Spectral Decomposition</li>
- <li>​​The Singular Value Decomposition</li>
- <li>Image Processing and Statistics</li>
- <li>Reducing the Dimension of Multivariate Data</li>
-</ul>
+This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality. We cover the following algorithms:
 
-## Problems to be worked on in/after class
-<p>ALL SVD problems from the Exam Cases (2018-s2020)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-If you do not finish in class, work on them at home</p>
+- Principal component analysis (PCA)
+- Linear discriminant analysis (LDA),
+- t-distributed stochastic neighbor embedding (t-SNE)
+
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
+
+- Use principle component analysis (PCA) to reduce the dimensions of your dataset
+- Describe how PCA can be used for clustering analyses
+- Create 2-dimensional clustering-plots in python using PCA and t-SNE
+
+If you have no or little experience in linear algebra, I recommend checking out some of the resources below:
+
+
+
+And as always, Alexander Ihler is gold.
