@@ -2,7 +2,7 @@
 
 [Jump to Lesson Plan](#lesson-plan)
 
-Thi repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
+This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
 
 The course consists of 12 scheduled sessions, each with a duration of 2-4 lessons. The sessions start in week 6 and the final session will be in week 19. During these weeks, the students work on a self-chosen group project. Additionally, there are 6 group assignments during the semester which have specified deadlines. Both the project and the assignments must be handed in on Itslearning.
 
@@ -63,19 +63,19 @@ Click on a session below to access a plan of a specific session and additional r
 
 <div align="center">
 
-| Session | Week   | Teacher             | Topic                                                                                          |
-|---------|---------------------|------------------|------------------------------------------------------------------------------|
-| 01      | 6 | RIB | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
-| 02      | 7 | RIB | [Matrix Algebra](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
-| 03      | 8 | FRBJ | [Determinants](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
-| 04      | 9 | RIB | [Vector Spaces](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
-| 05      | 10 | RIB | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
-| 06      | 11 | FRBJ | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
-| 07      | 12 | RIB | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 08      | 15 | FRBJ | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 09      | 16 | RIB | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
-| 10      | 17 | FRBJ | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 11      | 18 | FRBJ | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 12      | 19 | FRBJ | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+| Session | Week | Teacher | Topic |
+|---------|------|---------|-------|
+| 01      | 6    | RIB     | [Introduction: Machine learning fundamentals](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
+| 02      | 7    | RIB     | [Naive Bayes and support vector machines](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
+| 03      | 8    | FRBJ    | [Tree-based models](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
+| 04      | 9    | RIB     | [The machine learning pipeline: Introduction to final project](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
+| 05      | 10   | RIB     | [Data preparation and feature engineering](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
+| 06      | 11   | FRBJ    | [Validation methods and performance metrics](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
+| 07      | 12   | RIB     | [The role of Linear Algebra in Machine Learning and AI](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
+| 08      | 15   | FRBJ    | [Regression](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 09      | 16   | RIB     | [Dimensionality reduction](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+| 10      | 17   | FRBJ    | [Clustering](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
+| 11      | 18   | FRBJ    | [Introduction to neural networks](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 12      | 19   | FRBJ    | [Perspectives in artificial intelligence](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
 
 </div>
