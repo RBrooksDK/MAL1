@@ -4,7 +4,7 @@
 
 [Jump to Portfolios and Project](#portfolios-and-project)
 
-This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
+This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning-and-ai-from-s24?education=ict) course at VIA University College, Horsens, Denmark.
 
 The course consists of 12 scheduled sessions, each with a duration of 2-4 lessons. The sessions start in week 6 and the final session will be in week 19. During these weeks, the students work on a self-chosen group project. Additionally, there are 6 group assignments during the semester which have specified deadlines. Both the project and the assignments must be handed in on Itslearning.
 
@@ -34,11 +34,11 @@ We assume that you have (1) covered! Linear Algebra knowledge you can obtain eit
 
 ## Online Resources
 
-There are several Python-programming tutorials on YouTube, also ones that are data science / Machine Learning oriented. I recommend Alexander Ihler’s [course "Machine Learning and Data Mining"](https://youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw).
+There are several Python-programming tutorials on YouTube, also ones that are data science / Machine Learning oriented. I recommend Alexander Ihler’s course [Machine Learning and Data Mining](https://youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw).
 
-For prerequisites, we have our own course here at VIA called Applied Linear Algebra. You can find an online version of the course at the [course web page](https://github.com/RBrooksDK/ALI1) that also contains recordings from all sessions (from 2023).
+For prerequisites, we have our own course here at VIA called [Applied Linear Algebra](https://www.via.dk/TMH/Courses/applied-linear-algebra?education=sw). You can find an online version of the course at the [course web page](https://github.com/RBrooksDK/ALI1) that also contains recordings from all sessions (from 2023).
 
-In terms of probability theory and statistics, we have our own course here at VIA called Stochastic Modelling and Processes (IT-SMP1). You can find an online version of the course at the [course web page](https://github.com/RBrooksDK/SMP1) that also contains recordings from all sessions (from 2021).
+In terms of probability theory and statistics, we have our own course here at VIA called [Stochastic Modelling and Processing (IT-SMP1)](https://www.via.dk/TMH/Courses/stochastic-modelling-and-processing?education=sw). You can find an online version of the course at the [course web page](https://github.com/RBrooksDK/SMP1) that also contains recordings from all sessions (from 2021).
 
 ## Historical Notes
 
@@ -63,7 +63,6 @@ Introduction to Machine Learning was first offered in the spring of 2018 and has
 
 Click on a session below to access a plan of a specific session and additional resources for that session.
 
-<div align="center">
 
 | Session | Week | Teacher | Topic |
 |---------|------|---------|-------|
@@ -80,7 +79,6 @@ Click on a session below to access a plan of a specific session and additional r
 | 11      | 18   | FRBJ    | [Introduction to neural networks](https://github.com/RBrooksDK/MAL1/blob/main/11%20Introduction%20to%20neural%20networks/README.md) |
 | 12      | 19   | FRBJ    | [Perspectives in artificial intelligence](https://github.com/RBrooksDK/MAL1/blob/main/12%20Perspectives%20in%20artificial%20intelligence/README.md) |
 
-</div>
 
 ## Portfolios and Project
 
