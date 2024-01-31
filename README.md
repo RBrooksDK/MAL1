@@ -2,7 +2,7 @@
 
 [Jump to Lesson Plan](#lesson-plan)
 
-Thi repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
+This repository contains resources for the [Machine Learning & AI](https://en.via.dk/tmh-courses/introduction-to-machine-learning) course at VIA University College, Horsens, Denmark.
 
 The course consists of 12 scheduled sessions, each with a duration of 2-4 lessons. The sessions start in week 6 and the final session will be in week 19. During these weeks, the students work on a self-chosen group project. Additionally, there are 6 group assignments during the semester which have specified deadlines. Both the project and the assignments must be handed in on Itslearning.
 
