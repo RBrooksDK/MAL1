@@ -65,17 +65,17 @@ Click on a session below to access a plan of a specific session and additional r
 
 | Session | Week | Teacher | Topic |
 |---------|------|---------|-------|
-| 01      | 6    | RIB     | [Introduction: Machine learning fundamentals](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
-| 02      | 7    | RIB     | [Naive Bayes and support vector machines](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
-| 03      | 8    | FRBJ    | [Tree-based models](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
-| 04      | 9    | RIB     | [The machine learning pipeline: Introduction to final project](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
-| 05      | 10   | RIB     | [Data preparation and feature engineering](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
-| 06      | 11   | FRBJ    | [Validation methods and performance metrics](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
-| 07      | 12   | RIB     | [The role of Linear Algebra in Machine Learning and AI](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 08      | 15   | FRBJ    | [Regression](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 09      | 16   | RIB     | [Dimensionality reduction](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
-| 10      | 17   | FRBJ    | [Clustering](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 11      | 18   | FRBJ    | [Introduction to neural networks](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 12      | 19   | FRBJ    | [Perspectives in artificial intelligence](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md) |
+| 01      | 6    | RIB     | [Introduction: Machine learning fundamentals](https://github.com/RBrooksDK/MAL1/blob/main/01%20Introduction%20-%20Machine%20learning%20fundamentals/README.md) |
+| 02      | 7    | RIB     | [Naive Bayes and support vector machines](https://github.com/RBrooksDK/MAL1/blob/main/02%20Naive%20Bayes%20and%20support%20vector%20machines/README.md) |
+| 03      | 8    | FRBJ    | [Tree-based models](https://github.com/RBrooksDK/MAL1/blob/main/03%20Tree-based%20models/README.md) |
+| 04      | 9    | RIB     | [The machine learning pipeline: Introduction to final project](https://github.com/RBrooksDK/MAL1/blob/main/04%20The%20machine%20learning%20pipeline%20-%20Introduction%20to%20final%20project/README.md) |
+| 05      | 10   | RIB     | [Data preparation and feature engineering](https://github.com/RBrooksDK/MAL1/blob/main/05%20Data%20preparation%20and%20feature%20engineering/README.md) |
+| 06      | 11   | FRBJ    | [Validation methods and performance metrics](https://github.com/RBrooksDK/MAL1/blob/main/06%20Validation%20methods%20and%20performance%20metrics/README.md) |
+| 07      | 12   | RIB     | [The role of Linear Algebra in Machine Learning and AI](https://github.com/RBrooksDK/MAL1/blob/main/07%20The%20role%20of%20Linear%20Algebra%20in%20Machine%20Learning%20and%20AI/README.md) |
+| 08      | 15   | FRBJ    | [Regression](https://github.com/RBrooksDK/MAL1/blob/main/08%20Regression/README.md) |
+| 09      | 16   | RIB     | [Dimensionality reduction](https://github.com/RBrooksDK/MAL1/blob/main/09%20Dimensionality%20reduction/README.md) |
+| 10      | 17   | FRBJ    | [Clustering](https://github.com/RBrooksDK/MAL1/blob/main/10%20Clustering/README.md) |
+| 11      | 18   | FRBJ    | [Introduction to neural networks](https://github.com/RBrooksDK/MAL1/blob/main/11%20Introduction%20to%20neural%20networks/README.md) |
+| 12      | 19   | FRBJ    | [Perspectives in artificial intelligence](https://github.com/RBrooksDK/MAL1/blob/main/12%20Perspectives%20in%20artificial%20intelligence/README.md) |
 
 </div>
