@@ -3,7 +3,7 @@
 ## Material:
 Ch 6 + 7
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EuHEHAN-4cJKpGUy7B8sAP4BXC9WYRgUfyoMkhrzMJZY4A?e=qKTmmr)
+[Session material](#)
 
 You will need to install the graphviz and pydotplus modules in python. You can do this by following these steps:
 

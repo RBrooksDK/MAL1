@@ -1,36 +1,29 @@
-<h2 align="center">04 Vector Spaces</h2>
+<h2 align="center">04 The Machine Learning Pipeline</h2>
 
 ## Material:
 
-[Recap and Exercises (template)](https://drive.google.com/file/d/1CWY0bGUjnKdH4RAeKjceDKCJ1i5d1JPi/view?usp=drivesdk)
+Ch 2
 
-[Class notes (template)](https://drive.google.com/file/d/19wDjpcnaVRs-zKg7bRtvQ3sm9X6Bz3_g/view?usp=drivesdk)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/En7Ef2yZyHhMkOI3_uXMGwwBuzJLWso-eMq76QprbQvZNA?e=Imq1ob)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EgXzFwcFf_tBh8mwVvN0UycBh_gTnjRq8A5x15bFaLKCTg?e=eGwSEq)
-
-<p>Lay:&nbsp;​4.1-4.6 (4.4. is self-study)</p>
 
 ## Topics
-<ul>
- <li>Vector spaces</li>
- <li>Subspaces</li>
- <li>Null spaces</li>
- <li>Column spaces</li>
- <li>Linear transformations</li>
- <li>Linear independence (again!)</li>
- <li>Bases</li>
- <li>Coordinate systems</li>
- <li>Dimension</li>
- <li>Row space</li>
- <li>The rank</li>
-</ul>
+In this session we will go through how to complete a Machine Learning project from defining the problem to building the final model:
 
-## Problems to be worked on in/after class
+1. Look at the big picture.
+2. Get the data.
+3. Discover and visualize the data to gain insights.
+4. Prepare the data for Machine Learning algorithms.
+5. Select a model and train it.
+6. Fine-tune your model.
 
-<p><strong>Problems to be worked on in/after&nbsp;class:</strong></p>
-<p>4.2.: 2-6, 17-20, 24<br />
-4.3.: 9-10, 13, 17, 18, 36 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-4.5: 6, 11, 14, 17 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-4.6: 2, 4, 35&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+In addition, we will go through your final group project.
 
-If you do not finish in class, work on them at home</p>
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
+
+- Define and articulate the scope of a Machine Learning problem, including understanding the big picture and setting clear objectives.
+- Acquire and prepare datasets for Machine Learning projects, understanding the complexity of real-world data and the importance of pre-processing.
+- Understand the relevance of exploratory data analysis to uncover insights and trends within the data, utilizing visualization techniques to aid in understanding.
+- Understand why it is essential to perform model optimization and fine-tuning techniques to improve performance and achieve robustness in predictions, including understanding the importance of hyperparameter tuning.
+
+
