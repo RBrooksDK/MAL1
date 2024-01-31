@@ -1,29 +1,28 @@
-<h2 align="center">05 Eigenvalues</h2>
+<h2 align="center">05 Data Preparation and Feature Engineering</h2>
 
 ## Material:
 
-[Recap and Exercises (template)](https://drive.google.com/file/d/196gP40CD8tMHYx07U9wMDS1zv7ETbMHj/view?usp=sharing)
+Ch 2
 
-[Class notes (template)](https://drive.google.com/file/d/1ug2XMZWNHSl9YxJ3_iKVMiiTekAW0k7l/view?usp=sharing)
-
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/ErEbWej73CxBiXGFKP-mtx4BzkmBdQWAJOwzWIuvuzoBZw?e=OSVNsB)
-
-<p>Lay:&nbsp;​5.1-5.3</p>
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EomwA-aniDdHkkNiUUt4r7sBOWG0lWrheNTsjedMxW5_GQ?e=x3zvjO)
 
 ## Topics
-<ul>
-	<li>​​Eigenvalues</li>
-	<li>Eigenvectors</li>
-	<li>Eigenspace</li>
-	<li>The characteristic equation</li>
-	<li>Triangular matrices</li>
-	<li>Diagonalization</li>
-</ul>
+This lecture will cover the basics of how to prepare a data set for machine learning and add new features based on those already in the data set. The topic includes:
 
-## Problems to be worked on in/after class
+- Data cleaning: What to do with missing values, outliers, nonsensical values
+- Box Plots and other exploratory visualisations
+- Data imputation
+- Feature engineering:
+  - Dummy variables
+  - Scaling
 
-<p>​​5.1: 1, 3, 5, 7, 13, 16, 40 &nbsp;<br />
-5.2: 1, 3, 6, 10, 11 &nbsp;<br />
-5.3: 1, 6, 10-14, 35, 36 &nbsp;&nbsp;&nbsp;&nbsp;<br />
+After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
 
-If you do not finish in class, work on them at home</p>
+- Know how to approach features and when to drop and/or engineer them for your specific purposes
+- Prepare a dataset for ML. Specifically, you should be able to explain and perform each of the operations below:
+  - Handle missing values/NaN-values in appropriate ways
+  - Identify and handle outliers using a boxplot
+  - Create dummy variables
+  - Scale/normalize variables
+  - Create a bag-of-words-representation for text-data
+

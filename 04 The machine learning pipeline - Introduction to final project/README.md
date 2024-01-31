@@ -2,7 +2,7 @@
 
 ## Material:
 
-Ch 2
+Ch 2 (also for next week)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/En7Ef2yZyHhMkOI3_uXMGwwBuzJLWso-eMq76QprbQvZNA?e=Imq1ob)
 
