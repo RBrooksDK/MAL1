@@ -5,7 +5,7 @@ Ch 1 + "kNN" (see Session material below) +  (Section about "Logistic Regression
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ehw3HAQLiH5OuSB14MmZb5gBZxQvOeMDPqkRz7Jvg2hBjw?e=ADVcEv)
 
-
+[Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
 
 ## Topics
 This lecture will cover basic machine learning methodology, the logistic regression algorithm, and the k Nearest Neighbors algorithm.
