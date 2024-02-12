@@ -4,7 +4,9 @@
 Ch 5 (Up to and including "Nonlinear SVM Classification", pp. 147 - 157) + [Naïve Bayes](https://www.ibm.com/topics/naive-bayes)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eh1UjeNInrFNr58q-MtfviEBCtIQTzYGV6ez-AMGf_l8GQ?e=CEW9TZ)
+
 [Session notes (Monday)](https://drive.google.com/file/d/1b8-u6oY8FHurOY4OYRYF6BbIRmhz9XNl/view?usp=sharing)
+
 [Session notes (Tuesday)](https://drive.google.com/file/d/1J-_dAEpwynMV2PzUnUJGHhvDFE4eBim9/view?usp=sharing)
 
 
