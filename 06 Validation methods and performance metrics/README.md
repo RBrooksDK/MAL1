@@ -10,8 +10,8 @@ Ch 3
 ## Topics
 This lecture will cover several machine learning methodologies:
 
-- The train/test-methodelogy (already presented)
-- The Validation set methodology (already presented)
+- The train/test-methodelogy
+- The validation set methodology
 - The cross-validation methodology
 - The leave-one-out-methodology
 
@@ -20,10 +20,8 @@ In addition to this, we will discuss what is meant by true/false positives/negat
 - Accuracy
 - Confusion matrix
 - Recall
-- Specificity
 - Precision
-- F-score
-- ROC curve and AUC
+- F1-score
 - Precision-recall-curve
 
 After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
@@ -37,10 +35,8 @@ After attending this lecture, reading the corresponding part of the book and doi
   - Confusion matrix
   - Accuracy
   - Recall ( = "True Positive Rate" (TPR) )
-  - Specificity ( = "True Negative Rate" (TNR) )
   - Precision ( = "Positive Prediction Rate" (PPR) )
-  - F-score
-  - ROC-curve, including "Area Under Curve" (AUC)
+  - F1-score
   - Precision-recall-curve
 
 **Useful resources:**
