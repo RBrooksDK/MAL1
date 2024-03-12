@@ -4,7 +4,7 @@
 
 Ch 3
 
-[Session material](#)
+Session material: In this folder
 
 
 ## Topics
