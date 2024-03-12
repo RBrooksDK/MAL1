@@ -3,7 +3,7 @@
 ## Material:
 Ch 6 + 7
 
-[Session material](#)
+Session material: See above
 
 You will need to install the graphviz and pydotplus modules in python. You can do this by following these steps:
 
