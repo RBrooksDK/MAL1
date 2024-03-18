@@ -8,6 +8,8 @@ Watch [this video](https://youtu.be/uZeDTwWcnuY?si=d5yqsNEMoHye6_Td)
 
 For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel's](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4) video on the topic.
 
+Expect this session to last more than two lessons.
+
 
 ## Topics
 In today's session we look at some of the math behind Machine Learning. Ideally, you would have had both a course in Linear Algebra and Probability theory before starting up on Machine Learning, but in this session we will try to mediate this:
