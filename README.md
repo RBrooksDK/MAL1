@@ -89,7 +89,7 @@ Click on the assignment to view the assignment. You must hand in to Itslearning 
 | [1. Getting started: Airbnb](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ep3PUSQrEipPla4QcRYt-6wBnUnYy9fi8SDoMTnmLQ9VKQ?e=Bdfxbv) | 8.20 on Feb. 19 |
 | [2. Classification: The Candidates Part 1](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eic9cE3YnApJkMB3KCXLAtYBFm7se6JkrJeujHtWlGjdag?e=SoUVaY) | 8.20 on Mar. 4 |
 | [3. Feature Engineering and Preprocessing: Waterworks](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EoXHsezwjt1Ah2sUkOK_OzkBfhgwdDK_iXhdT2gX521qOw?e=hzvzty) | 8.20 on Mar. 18 |
-| [4. Regression: Long-Term Correction of Wind Data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EvMpTWIjCEtCjGRqFAEHdQUBuwECxfqEeyflQ24Nd8D3wQ?e=a7S1jv) | 23.59 on Apr. 1 |
+| [4. Regression: Long-Term Correction of Wind Data](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EvMpTWIjCEtCjGRqFAEHdQUBuwECxfqEeyflQ24Nd8D3wQ?e=a7S1jv) | 23.59 on Apr. 15 |
 | [5. Dimensionality Reduction and Clustering: The Candidates Part 2](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtQLm_y5u2pHqJTPYxS9TVwB814PQwyDrlVRYDRDo27ZzQ?e=On7NVj) | 8.20 on Apr. 22 |
 | [6. Neural Networks: Sentiment Analysis](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ek-tCym3-cRKrG0f_oQfUMkBRiyOaFMM45edBxxrqR8_bA?e=jpoKgo) | 8.20 on May 8 |
 | [7. Final Group Project](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eo-MXv67ZepLnUC-77qPjNsB6Lj04AQ4W553r0qvsQwDcA?e=dkE5uQ) | 8.20 on May 8 |
