@@ -6,6 +6,10 @@ Watch [this video](https://youtu.be/uZeDTwWcnuY?si=d5yqsNEMoHye6_Td)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Eolrpr8ojlJJhx2RVFDnCZoBPeVfuvNfYu6Y6jRn_q2vkg?e=FPpdkV)
 
+[Session notes X - Monday](https://drive.google.com/file/d/1v80NcWyAroehqs2dNRc4v2TSOOUrmiE8/view?usp=sharing)
+
+[Session notes Y - Tuesday](https://drive.google.com/file/d/1zTw5y4w_CzDhoM4Oq01o7-MS2s2AOsDL/view?usp=sharing)
+
 For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel's](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4) video on the topic.
 
 Expect this session to last more than two lessons.
