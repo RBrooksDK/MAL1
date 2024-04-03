@@ -27,7 +27,6 @@ We also discuss (again) what is meant by “regularization” and consider the R
 After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
 
 - Explain what is meant by "regression" and in which contexts to apply it
-- Explain how to do regression with the kNN-algorithm
 - Explain the following linear regression models, their strengths and weaknesses, and apply them in python:
   - Ordinary Least Squares (OLS) regression
   - Ridge regression
