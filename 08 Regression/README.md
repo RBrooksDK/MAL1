@@ -37,5 +37,5 @@ After attending this lecture, reading the corresponding part of the book and doi
 - Describe what is meant by "bias" and "variance" in relation to ML-algorithms
 - Explain the R²-metric for evaluating the performance of a linear regression algorithm
 - Explain the MSE metric
-- Explain the basic concepts of gradient descent
+- Explain how regression models can be trained using either matrix algebra or gradient descent
 
