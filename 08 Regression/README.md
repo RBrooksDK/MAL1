@@ -10,7 +10,7 @@ These are some useful resources for some of the main concepts:
 
 In general we recommend Alexander Ihler’s course [“Machine Learning and Data Mining”](https://youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&si=60z8GWh1ks6OWyag).
 
-[Session material](#)
+Session material: In this folder.
 
 
 ## Topics
