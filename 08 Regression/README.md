@@ -6,11 +6,11 @@ Ch 4 (except "Logistic Regression")
 
 These are some useful resources for some of the main concepts:
 
-[Gradient Descent](https://www.youtube.com/watch?v=qg4PchTECck), [Linear regression](https://youtu.be/hiOQDsdOZ7I?si=kxiM6QgQa5C2LQd4), [Regularization](https://www.youtube.com/watch?v=sO4ZirJh9ds)
+[Linear regression](https://youtu.be/hiOQDsdOZ7I?si=kxiM6QgQa5C2LQd4), [Regularization](https://www.youtube.com/watch?v=sO4ZirJh9ds)
 
 In general we recommend Alexander Ihler’s course [“Machine Learning and Data Mining”](https://youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw&si=60z8GWh1ks6OWyag).
 
-[Session material](#)
+Session material: In this folder.
 
 
 ## Topics
@@ -27,7 +27,6 @@ We also discuss (again) what is meant by “regularization” and consider the R
 After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
 
 - Explain what is meant by "regression" and in which contexts to apply it
-- Explain how to do regression with the kNN-algorithm
 - Explain the following linear regression models, their strengths and weaknesses, and apply them in python:
   - Ordinary Least Squares (OLS) regression
   - Ridge regression
@@ -37,5 +36,5 @@ After attending this lecture, reading the corresponding part of the book and doi
 - Describe what is meant by "bias" and "variance" in relation to ML-algorithms
 - Explain the R²-metric for evaluating the performance of a linear regression algorithm
 - Explain the MSE metric
-- Explain the basic concepts of gradient descent
+- Explain how regression models can be trained
 
