@@ -9,7 +9,7 @@ Ch 8
 
 
 ## Topics
-This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality. We cover the following algorithms:
+This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality reduction. We cover the following algorithms:
 
 - Principal component analysis (PCA)
 - Linear discriminant analysis (LDA),
