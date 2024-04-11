@@ -7,6 +7,10 @@ Ch 8
 
 [Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&si=q7-RepDmv-fnb5PH) has made a whole lecture series about the SVD. This is overkill but maybe check out the the Overview and the videoes about PCA.
 
+For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4)'s video on the topic.
+
+And as always, Alexander Ihler is gold.
+
 
 ## Topics
 This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality reduction. We cover the following algorithms:
@@ -21,8 +25,4 @@ After attending this lecture, reading the corresponding part of the book and doi
 - Describe how PCA can be used for clustering analyses
 - Create 2-dimensional clustering-plots in python using PCA and t-SNE
 
-If you have no or little experience in linear algebra, I recommend checking out some of the resources below:
-
-
-
-And as always, Alexander Ihler is gold.
+If you missed the session in linear algebra, I recommend checking out some of the resources mentioned above.
