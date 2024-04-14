@@ -10,6 +10,7 @@ Ch 8
 For a very appealing and visual explanation of SVD, you should take a look at [Visual Kernel](https://www.youtube.com/watch?v=vSczTbgc8Rc&list=PLWhu9osGd2dB9uMG5gKBARmk73oHUUQZS&index=4)'s video on the topic.
 
 Useful Resources on t-SNE:
+
 [sklearn.manifold.TSNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
 [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
