@@ -11,6 +11,13 @@ For a very appealing and visual explanation of SVD, you should take a look at [V
 
 And as always, Alexander Ihler is gold.
 
+Useful Resources on t-SNE:
+[sklearn.manifold.TSNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+[openTSNE](https://opentsne.readthedocs.io/en/stable/)
+
+I've also added the original research papers leading up to t-SNE (not part of syllabus, just there for reference)
+
 
 ## Topics
 This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality reduction. We cover the following algorithms:
