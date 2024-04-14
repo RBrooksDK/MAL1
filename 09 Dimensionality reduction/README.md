@@ -11,6 +11,7 @@ For a very appealing and visual explanation of SVD, you should take a look at [V
 
 Useful Resources on t-SNE:
 [sklearn.manifold.TSNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+
 [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 [openTSNE](https://opentsne.readthedocs.io/en/stable/)
 
