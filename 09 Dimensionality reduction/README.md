@@ -16,7 +16,6 @@ And as always, Alexander Ihler is gold.
 This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality reduction. We cover the following algorithms:
 
 - Principal component analysis (PCA)
-- Linear discriminant analysis (LDA),
 - t-distributed stochastic neighbor embedding (t-SNE)
 
 After attending this lecture, reading the corresponding part of the book and doing exercises, I expect you to be able to:
