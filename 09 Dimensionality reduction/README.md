@@ -18,6 +18,8 @@ Useful Resources on t-SNE:
 
 I've also added the original research papers leading up to t-SNE (not part of syllabus, just there for reference)
 
+If you want a really in depth introduction to t-SNE, look [here](https://www.youtube.com/watch?v=MnRskV3NY1k)
+
 
 ## Topics
 This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for dimensionality reduction. We cover the following algorithms:
