@@ -5,9 +5,9 @@ Ch 8
 
 [Session Notes X](https://drive.google.com/file/d/1CJYGkrY6XJK7vbam5CiYXnxnn218l9a7/view?usp=sharing)
 
-[Session Notes Y](https://drive.google.com/file/d/1tLzV7oeODjrRvTeqiklr1wfx7RD3FM3N/view?usp=sharing)
+[Session Notes Y](https://drive.google.com/file/d/17353SODYa74CPSgZaA_OpbcM861bafLd/view?usp=sharing)
 
-[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtRvmMnYXORCi6BvOYlcc5IBsurTuKp_Tj7q-MY-SjV4ng?e=ttcO3r)
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Ep413YiQGxpMrHsSK7tdI1kB0YO9X1N8_Zd53x3B_c3xHA?e=eFwtTP)
 
 [Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv&si=q7-RepDmv-fnb5PH) has made a whole lecture series about the SVD. This is overkill but maybe check out the the Overview and the videoes about PCA.
 
