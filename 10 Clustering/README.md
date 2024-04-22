@@ -4,7 +4,7 @@
 
 Ch 9
 
-[Session material](#)
+Session material: In this folder
 
 
 ## Topics
@@ -23,4 +23,4 @@ After attending this lecture, reading the corresponding part of the book and doi
 - Apply the above clustering algorithms in Python
 - Evaluate clustering algorithms (e.g. by inspecting the output in 2D-plots or in other ways inspecting which elements are clustered together).
 - Describe what is meant by "hierarchical" clustering
-- Use a dendogram to determine the optimal number of clusters
+- Use a dendrogram to determine the optimal number of clusters
