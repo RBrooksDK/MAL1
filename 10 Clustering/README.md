@@ -8,7 +8,7 @@ Session material: In this folder
 
 
 ## Topics
-This lecture covers **unsupervised machine learning** algorithms. We discuss how these can be used for clustering analysis. We cover the following algorithms:
+This lecture covers **clustering** algorithms. We cover the following algorithms:
 
 - k means
 - Hierarchical clustering
@@ -22,5 +22,4 @@ After attending this lecture, reading the corresponding part of the book and doi
   - DBSCAN
 - Apply the above clustering algorithms in Python
 - Evaluate clustering algorithms (e.g. by inspecting the output in 2D-plots or in other ways inspecting which elements are clustered together).
-- Describe what is meant by "hierarchical" clustering
 - Use a dendrogram to determine the optimal number of clusters
