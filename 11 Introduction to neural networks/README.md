@@ -8,7 +8,7 @@ For background and as reference: Ch 12
 
 [3Blue1Brown: Neural networks (video series)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-[Session material](#)
+Session material: In this folder
 
 You will need to install tensorflow and (optionally) tensorboard before this lesson. Specifically, you need tensorflow 2.0 or higher to be able to use all the functionalities in the notebooks. If you don't know whether you have these packages installed, you can open an anaconda prompt and type
 
