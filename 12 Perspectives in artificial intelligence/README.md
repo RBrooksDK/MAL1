@@ -2,7 +2,7 @@
 
 ## Material:
 
-[Session material](#)
+Session material: In this folder.
 
 
 ## Topics
