@@ -24,7 +24,7 @@ The course will be somewhat "Python-heavy" and during the course, it is expected
 
 ## Prerequisites
 
-There are three main areas that are important when it comes to Machine Learning:
+There are three main areas that are important when it comes to Machine Learning
 
 - Programming
 - Linear Algebra
